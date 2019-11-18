@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  PageViewExample
+//  Examples
 //
 //  Created by FOTON on 18/11/19.
 //  Copyright © 2019 Rodrigo. All rights reserved.
@@ -9,6 +9,7 @@
 import UIKit
 import SwiftUI
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
